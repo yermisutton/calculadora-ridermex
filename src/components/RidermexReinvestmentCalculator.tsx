@@ -62,6 +62,7 @@ const RidermexReinvestmentCalculator: React.FC<RidermexReinvestmentCalculatorPro
     }
 
     const ridermexDefaults = {
+      ridermex: true,
       initialCertificates: 1,
       certificateBasePrice: defaultPrice,
       initialPayment: defaultDownPayment,

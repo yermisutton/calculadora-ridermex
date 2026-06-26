@@ -55,6 +55,7 @@ const RidermexShortCalculator: React.FC<RidermexShortCalculatorProps> = ({ onBac
     }
 
     const ridermexDefaults = {
+      ridermex: true,
       initialCertificates: 1,
       certificateBasePrice: defaultPrice,
       initialPayment: defaultDownPayment,

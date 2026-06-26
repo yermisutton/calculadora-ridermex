@@ -12,7 +12,6 @@ export default defineConfig({
   build: {
     sourcemap: false,
     chunkSizeWarningLimit: 1200,
-    copyPublicDir: false,
     minify: 'esbuild',
     rollupOptions: {
       output: {
