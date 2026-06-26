@@ -7,14 +7,12 @@ interface CalculatorWrapperProps {
 }
 
 export const CalculatorWrapper: React.FC<CalculatorWrapperProps> = ({ children }) => {
-  const navigate = useNavigate();
-
   return (
     <>
       <div className="fixed top-4 right-4 z-50">
         <ThemeToggle />
       </div>
-      {React.cloneElement(children as React.ReactElement, { onBack: () => navigate('/') })}
+      {children}
     </>
   );
 };
