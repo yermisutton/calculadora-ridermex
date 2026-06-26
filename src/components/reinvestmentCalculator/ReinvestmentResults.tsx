@@ -929,10 +929,10 @@ const ReinvestmentResults: React.FC<ReinvestmentResultsProps> = ({ onPrevious })
           <div 
             className="absolute inset-0 z-0 pointer-events-none select-none transition-transform duration-1000 ease-out group-hover:scale-110"
             style={{ 
-              backgroundImage: "url('/moto_bg_sport.png')", 
+              backgroundImage: "url('/ridermex_sport_bike.png')", 
               backgroundSize: 'cover', 
               backgroundPosition: 'center',
-              opacity: 0.35
+              opacity: 0.2
             }}
           />
 
@@ -956,10 +956,10 @@ const ReinvestmentResults: React.FC<ReinvestmentResultsProps> = ({ onPrevious })
           <div 
             className="absolute inset-0 z-0 pointer-events-none select-none transition-transform duration-1000 ease-out group-hover:scale-110"
             style={{ 
-              backgroundImage: "url('/moto_bg_delivery.png')", 
+              backgroundImage: "url('/ridermex_scooter_delivery.png')", 
               backgroundSize: 'cover', 
               backgroundPosition: 'center',
-              opacity: 0.35
+              opacity: 0.2
             }}
           />
 
@@ -983,10 +983,10 @@ const ReinvestmentResults: React.FC<ReinvestmentResultsProps> = ({ onPrevious })
           <div 
             className="absolute inset-0 z-0 pointer-events-none select-none transition-transform duration-1000 ease-out group-hover:scale-110"
             style={{ 
-              backgroundImage: "url('/moto_bg_dashboard.png')", 
+              backgroundImage: "url('/ridermex_investor_concept.png')", 
               backgroundSize: 'cover', 
               backgroundPosition: 'center',
-              opacity: 0.35
+              opacity: 0.2
             }}
           />
 
@@ -1010,10 +1010,10 @@ const ReinvestmentResults: React.FC<ReinvestmentResultsProps> = ({ onPrevious })
           <div 
             className="absolute inset-0 z-0 pointer-events-none select-none transition-transform duration-1000 ease-out group-hover:scale-110"
             style={{ 
-              backgroundImage: "url('/moto_bg_sport.png')", 
+              backgroundImage: "url('/ridermex_store_interior.png')", 
               backgroundSize: 'cover', 
               backgroundPosition: 'center',
-              opacity: 0.35
+              opacity: 0.2
             }}
           />
 
@@ -1106,10 +1106,10 @@ const ReinvestmentResults: React.FC<ReinvestmentResultsProps> = ({ onPrevious })
           <div 
             className="absolute inset-0 z-0 pointer-events-none select-none transition-transform duration-1000 ease-out group-hover:scale-110"
             style={{ 
-              backgroundImage: "url('/moto_bg_dashboard.png')", 
+              backgroundImage: "url('/ridermex_store_front.png')", 
               backgroundSize: 'cover', 
               backgroundPosition: 'center',
-              opacity: 0.35
+              opacity: 0.2
             }}
           />
 

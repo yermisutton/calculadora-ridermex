@@ -300,7 +300,7 @@ function generateChartsGridPageHTML(
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; z-index: 10; position: relative;">
         <!-- Card 1: Patrimony -->
         <div style="position: relative; background: rgba(17, 24, 39, 0.85); border: 1px solid #dc2626; border-radius: 10px; padding: 10px; overflow: hidden; height: 195px; box-sizing: border-box;">
-          <div style="position: absolute; inset: 0; background-image: url('${origin}/moto_bg_sport.png'); background-size: cover; background-position: center; opacity: 0.15; z-index: 1;"></div>
+          <div style="position: absolute; inset: 0; background-image: url('${origin}/ridermex_sport_bike.png'); background-size: cover; background-position: center; opacity: 0.15; z-index: 1;"></div>
           <div style="position: relative; z-index: 2; height: 100%;">
             ${chart1HTML}
           </div>
@@ -308,7 +308,7 @@ function generateChartsGridPageHTML(
 
         <!-- Card 2: Income -->
         <div style="position: relative; background: rgba(17, 24, 39, 0.85); border: 1px solid #dc2626; border-radius: 10px; padding: 10px; overflow: hidden; height: 195px; box-sizing: border-box;">
-          <div style="position: absolute; inset: 0; background-image: url('${origin}/moto_bg_delivery.png'); background-size: cover; background-position: center; opacity: 0.15; z-index: 1;"></div>
+          <div style="position: absolute; inset: 0; background-image: url('${origin}/ridermex_scooter_delivery.png'); background-size: cover; background-position: center; opacity: 0.15; z-index: 1;"></div>
           <div style="position: relative; z-index: 2; height: 100%;">
             ${chart2HTML}
           </div>
@@ -316,7 +316,7 @@ function generateChartsGridPageHTML(
 
         <!-- Card 3: Wealth -->
         <div style="position: relative; background: rgba(17, 24, 39, 0.85); border: 1px solid #dc2626; border-radius: 10px; padding: 10px; overflow: hidden; height: 195px; box-sizing: border-box;">
-          <div style="position: absolute; inset: 0; background-image: url('${origin}/moto_bg_dashboard.png'); background-size: cover; background-position: center; opacity: 0.15; z-index: 1;"></div>
+          <div style="position: absolute; inset: 0; background-image: url('${origin}/ridermex_investor_concept.png'); background-size: cover; background-position: center; opacity: 0.15; z-index: 1;"></div>
           <div style="position: relative; z-index: 2; height: 100%;">
             ${chart3HTML}
           </div>
@@ -324,7 +324,7 @@ function generateChartsGridPageHTML(
 
         <!-- Card 4: Final comparison -->
         <div style="position: relative; background: rgba(17, 24, 39, 0.85); border: 1px solid #dc2626; border-radius: 10px; padding: 10px; overflow: hidden; height: 195px; box-sizing: border-box;">
-          <div style="position: absolute; inset: 0; background-image: url('${origin}/moto_bg_sport.png'); background-size: cover; background-position: center; opacity: 0.15; z-index: 1;"></div>
+          <div style="position: absolute; inset: 0; background-image: url('${origin}/ridermex_store_interior.png'); background-size: cover; background-position: center; opacity: 0.15; z-index: 1;"></div>
           <div style="position: relative; z-index: 2; height: 100%;">
             ${chart4HTML}
           </div>
@@ -332,7 +332,7 @@ function generateChartsGridPageHTML(
 
         <!-- Card 5: Capital growth stacked -->
         <div style="position: relative; background: rgba(17, 24, 39, 0.85); border: 1px solid #dc2626; border-radius: 10px; padding: 10px; overflow: hidden; height: 195px; box-sizing: border-box;">
-          <div style="position: absolute; inset: 0; background-image: url('${origin}/moto_bg_dashboard.png'); background-size: cover; background-position: center; opacity: 0.15; z-index: 1;"></div>
+          <div style="position: absolute; inset: 0; background-image: url('${origin}/ridermex_store_front.png'); background-size: cover; background-position: center; opacity: 0.15; z-index: 1;"></div>
           <div style="position: relative; z-index: 2; height: 100%;">
             ${chart5HTML}
           </div>
@@ -340,7 +340,7 @@ function generateChartsGridPageHTML(
 
         <!-- Card 6: Resumen de Retorno (Key metrics card) -->
         <div style="position: relative; background: rgba(17, 24, 39, 0.85); border: 1px solid #dc2626; border-radius: 10px; padding: 10px; overflow: hidden; height: 195px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; box-sizing: border-box;">
-          <div style="position: absolute; inset: 0; background-image: url('${origin}/moto_bg_delivery.png'); background-size: cover; background-position: center; opacity: 0.15; z-index: 1;"></div>
+          <div style="position: absolute; inset: 0; background-image: url('${origin}/ridermex_delivery_fleet.png'); background-size: cover; background-position: center; opacity: 0.15; z-index: 1;"></div>
           <div style="position: relative; z-index: 2; width: 100%; font-family: sans-serif;">
             <div style="font-weight: bold; color: #0dfc7b; font-size: 8.5px; margin-bottom: 8px; text-transform: uppercase;">Métricas de Retorno</div>
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
